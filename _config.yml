@@ -4,7 +4,7 @@ description: Documentation for the Kikis Delivery project for Orbital AY23/24
 remote_theme: pmarsceill/just-the-docs
 
 baseurl: "/jekyll_just-the-docs_test"
-url: "https://leezehao.github.io"
+url: ""
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
