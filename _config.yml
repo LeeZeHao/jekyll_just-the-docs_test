@@ -1,10 +1,10 @@
-title: Kiki's Delivery
-description: Documentation for the Kiki's Delivery project for Orbital AY23/24
+title: Kikis Delivery
+description: Documentation for the Kikis Delivery project for Orbital AY23/24
 # theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 
-url: https://leezehao.github.io
-baseurl: /jekyll_just-the-docs_test.github.io
+baseurl: "/jekyll_just-the-docs_test"
+url: "https://leezehao.github.io"
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
