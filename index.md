@@ -3,12 +3,12 @@ title: Home
 layout: home
 ---
 
-This is the documentation for the Kiki's Delivery project, part of Orbital 2024.
+Documentation for the Kiki's Delivery project, part of Orbital 2024.
 
-# Team Name
+## Team Name
 Kiki's Delivery
 
-# Level of Achievement
+## Level of Achievement
 Apollo 11 (proposed Artemis)
 
 # Milestone 2 Public Testing Notice
